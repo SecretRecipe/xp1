@@ -14,6 +14,7 @@
         </div>
         <div class="p-4 select-none">
             <p>Hello world !</p>
+            <iframe title="iframe" src="http://107.150.56.150:3000/public-dashboards/7c8568f8335a4229bf0e3592ba4b22b9?orgId=1&from=now-24h&to=now" id="iFrameResizer1" height="600px" width="600px" scrolling="yes" overflow:="" auto;"=""></iframe>
             <p>{{ props.id }}</p>
             <button>ok</button>
 
